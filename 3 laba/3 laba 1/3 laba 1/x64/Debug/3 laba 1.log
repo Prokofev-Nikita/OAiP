@@ -1,0 +1,4 @@
+﻿  3 laba 1.cpp
+D:\ПРОГА\3 laba 1\3 laba 1\3 laba 1.cpp(7,42): warning C4101: min: неиспользованная локальная переменная
+D:\ПРОГА\3 laba 1\3 laba 1\3 laba 1.cpp(7,18): warning C4101: num: неиспользованная локальная переменная
+  3 laba 1.vcxproj -> D:\ПРОГА\3 laba 1\x64\Debug\3 laba 1.exe
